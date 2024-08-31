@@ -1,6 +1,6 @@
 // Here are two examples of the output of a passing script:
 
-~~~~~ MY SALON ~~~~~
+10
 
 Welcome to My Salon, how can I help you?
 
